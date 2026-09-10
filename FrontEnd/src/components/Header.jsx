@@ -1,4 +1,4 @@
-import logo from "../assets/ADMET-X.png";
+import logo from "../assets/DRUG.IO.png";
 import ThemeToggle from "./ThemeToggle";
 import { motion } from "framer-motion";
 import { Helmet } from "react-helmet-async";
@@ -23,7 +23,7 @@ function Header() {
         <meta name="author" content="HARSHITHA M G" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://admet-x.vercel.app/" />
-        <link rel="icon" href="/ADMET-X.png" type="image/png" />
+        <link rel="icon" href="/DRUG.IO.png" type="image/png" />
 
         <script type="application/ld+json">
           {JSON.stringify({
@@ -55,7 +55,7 @@ function Header() {
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between gap-4 px-4">
           <img
             src={logo}
-            alt="ADMET-X Logo"
+            alt="DRUG.IO Logo"
             className="w-20 h-20 rounded-full mb-2 md:mb-0"
           />
           <h1 className="text-2xl md:text-4xl text-center md:text-left font-bold text-gray-800 dark:text-white">

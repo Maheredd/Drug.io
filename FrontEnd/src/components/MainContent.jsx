@@ -69,14 +69,14 @@ const MainContent = () => {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://admet-x.vercel.app/" />
-        <meta property="og:image" content="https://admet-x.vercel.app/ADMET-X.png" />
+        <meta property="og:image" content="https://admet-x.vercel.app/DRUG.IO.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="DRUG.IO | Computational Repurposing of FDA-Approved Drugs for Emerging Diseases" />
         <meta
           name="twitter:description"
           content="AI-based platform to predict Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) properties."
         />
-        <meta name="twitter:image" content="https://admet-x.vercel.app/ADMET-X.png" />
+        <meta name="twitter:image" content="https://admet-x.vercel.app/DRUG.IO.png" />
 
         {/* Schema.org structured data for better Google results */}
         <script type="application/ld+json">
@@ -93,7 +93,7 @@ const MainContent = () => {
               { "@type": "Person", name: "HARSHITHA M G" },
               
             ],
-            image: "https://admet-x.vercel.app/ADMET-X.png",
+            image: "https://admet-x.vercel.app/DRUG.IO.png",
           })}
         </script>
       </Helmet>
