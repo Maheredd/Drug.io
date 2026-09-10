@@ -80,7 +80,7 @@ Key highlights:
 
 ### 📁 Project Files & Navigation
 ```bash
-ADMET-X/
+DRUG.IO/
 ├── BackEnd/                # Flask backend code, app.py, utils, Models folder
 ├── FrontEnd/               # React frontend code
 ├── Model_predictions/      # Predicted ADMET results (optional storage)
@@ -102,8 +102,8 @@ ADMET-X/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ADMET-X.git
-cd ADMET/BackEnd
+git clone https://github.com/yourusername/DRUG.IO.git
+cd DRUG/BackEnd
 ```
 
 ### **2. Setup Conda Environment**
